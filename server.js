@@ -25,7 +25,6 @@ function ask(index){
   process.stdout.write(`${questions[index]}`)
 }
 
-
 ask(0)
 ask(1)
 ask(2)
